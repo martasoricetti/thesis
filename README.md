@@ -1,3 +1,3 @@
 # thesis
 This is a repository containing the material for my DHDK thesis and also weekly reports about my work
-https://mature-golf-a8b.notion.site/21-03-meeting-OC-23474de6f48b48b2a804f2522bdec218
+https://mature-golf-a8b.notion.site/31-03-meeting-OC-e643155816cc4ff5a1420ecfcb6450d3
